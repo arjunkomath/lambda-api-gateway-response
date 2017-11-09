@@ -51,6 +51,8 @@ will be send as:
 ### Example
 
 ```javascript
+var ApiGatewayResponse = require('lambda-api-gateway-response');
+
 exports.myHandler = function(event, context, callback) {
  return new ApiGatewayResponse(callback)
     .status(200)
