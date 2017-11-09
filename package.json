@@ -1,6 +1,6 @@
 {
     "name": "lambda-api-gateway-response",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "API Gateway Response builder for AWS Lambda",
     "main": "index.js",
     "scripts": {
