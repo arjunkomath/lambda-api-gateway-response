@@ -5,7 +5,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/192f9b1dfecc4329abbd41ce27710133)](https://www.codacy.com/app/arjunkomath/lambda-api-gateway-response?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arjunkomath/lambda-api-gateway-response&amp;utm_campaign=Badge_Grade)
 
 ## Install
-
+[![NPM](https://nodei.co/npm/lambda-api-gateway-response.png)](https://nodei.co/npm/lambda-api-gateway-response/)
 ```
 npm i lambda-api-gateway-response
 ```
