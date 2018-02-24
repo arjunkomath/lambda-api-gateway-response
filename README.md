@@ -66,3 +66,7 @@ exports.myHandler = function(event, context, callback) {
     .send();
 }
 ```
+
+## Contribute
+
+If you have discovered a bug or have a feature suggestion, feel free to create an issue on Github.
