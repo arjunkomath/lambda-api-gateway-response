@@ -3,9 +3,10 @@
 [![Build Status](https://travis-ci.org/arjunkomath/lambda-api-gateway-response.svg?branch=master)](https://travis-ci.org/arjunkomath/lambda-api-gateway-response)
 [![codecov](https://codecov.io/gh/arjunkomath/lambda-api-gateway-response/branch/master/graph/badge.svg)](https://codecov.io/gh/arjunkomath/lambda-api-gateway-response)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/192f9b1dfecc4329abbd41ce27710133)](https://www.codacy.com/app/arjunkomath/lambda-api-gateway-response?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arjunkomath/lambda-api-gateway-response&amp;utm_campaign=Badge_Grade)
+[![Maintainability](https://api.codeclimate.com/v1/badges/2c047cf7ccba87e2ab66/maintainability)](https://codeclimate.com/github/arjunkomath/lambda-api-gateway-response/maintainability)
 
 ## Install
-
+[![NPM](https://nodei.co/npm/lambda-api-gateway-response.png)](https://nodei.co/npm/lambda-api-gateway-response/)
 ```
 npm i lambda-api-gateway-response
 ```
@@ -65,3 +66,7 @@ exports.myHandler = function(event, context, callback) {
     .send();
 }
 ```
+
+## Contribute
+
+If you have discovered a bug or have a feature suggestion, feel free to create an issue on Github.
