@@ -3,11 +3,11 @@
  * @author Arjun Komath <arjunkomath@gmail.com>
  *
  * Created at     : 2017-11-09 22:07:27
- * Last modified  : 2018-05-08 19:47:32
+ * Last modified  : 2018-07-15 22:01:55
  */
-const runtime = require('./runtime');
+const runtime = require("./runtime");
 
-let ApiGatewayResponse = function(callback) {
+let ApiGatewayResponse = function (callback) {
     // Lambda callback function
     this.callback = callback;
 
